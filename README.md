@@ -6,8 +6,10 @@ Earthquakes are a devastating phenomenon forecasting an earthquake is an extreme
 So can we use this power of neural networks to solve such a difficult problem of earthquake forecasting?
 
 I have used the Gutenberg Richter Inverse power law as the base of the analysis.
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/GR_law_b%3D1.svg/1280px-GR_law_b%3D1.svg.png" alt="Theorectical Relationship" width="100" height="100">
-![Theoretical Relationship](https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/GR_law_b%3D1.svg/1280px-GR_law_b%3D1.svg.png|width=100)
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/GR_law_b%3D1.svg/1280px-GR_law_b%3D1.svg.png" alt="Theorectical Relationship" width="250" height="250">
+
+
 ## Appraoch/ Methodology Used
 * **Gutenberg Richter Law**- The Gutenberg-Richter law describes the power law magnitude distribution of earthquakes in a defined region and time interval. It is observed that the number of earthquakes of magnitude M is proportional to 10^-bM. 
 

@@ -7,6 +7,7 @@ So can we use this power of neural networks to solve such a difficult problem of
 
 I have used the Gutenberg Richter Inverse power law as the base of the analysis.
 
+![Theoretical Relationship](https://en.wikipedia.org/wiki/Gutenberg%E2%80%93Richter_law#/media/File:GR_law_b=1.svg)
 ## Appraoch/ Methodology Used
 * **Gutenberg Richter Law**- The Gutenberg-Richter law describes the power law magnitude distribution of earthquakes in a defined region and time interval. It is observed that the number of earthquakes of magnitude M is proportional to 10^-bM. 
 
